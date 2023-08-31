@@ -1,0 +1,199 @@
+[
+    {
+        "name": "International Investment (Pre - deal Controls)",
+        "rating": "Significant Improvement Required",
+        "date": "21 January 2023",
+        "code": "(IAD2023/JAN/2)",
+        "id": 1001,
+        "highRating": 1,
+        "mediumRating": 3,
+        "lowRating": 0, 
+        "pdfUrl": "https://www.knime.com/sites/default/files/inline-images/bl_sample_s.pdf",
+        "pdfName": "payments",
+        "execSummary": "BACKGROUND \n \n The mandate of the International Investment Department in Green Horse is to identify, evaluate, and manage investment opportunities in international markets. The Department conducts research and analysis to identify promising investments, works with local teams and external partners to manage and monitor them, and diversifies the company's investment portfolio to maximize returns and minimize risk. By doing so, the Department helps Green Horse achieve its mission of achieving higher investment risk adjusted returns and long-term financial security within an acceptable level of risk through a diversified portfolio of high-quality investments. The International Investment Department consists of four units: \n \n- Public Investment: Responsible for identifying and evaluating investment opportunities in publicly traded companies in foreign markets.\n \n - Private Equity Investment: Responsible for identifying and evaluating investment opportunities in privately held companies in foreign markets. \n \n- Real Estate and Infrastructure: responsible for identifying and evaluating investment opportunities in real estate and infrastructure projects in foreign markets.\n \n- Direct Investment: Tasked with identifying and assessing both public and private opportunities in which the company intends to maintain an investment position for over twelve months and acquire a substantial ownership interest. \n \n SCOPE AND APPROACH \n \nThis audit assessed the design and operating effectiveness of key controls over International Investment’s governance, and activities related to International Investment. The scope covered department’s governance including Investment procedures, Delegation of Authorities, and Data governance including access rights and information security. In addition, the scope covered the initial stages of international investments process cycle; namely investment sourcing and screening and initial due diligence. \n \n CONCLUSION \n \nThis report has been rated as \"Needs Significant Improvement,\" indicating that overall, key controls require improvements in their design and operation. The International Investment department need to emphasize on adopting and adhering to the requirements, outlined in the Investment procedures. Areas for improvement to consider in terms of initial investment assessment and conclusions, approval documentation, and timely review of Legal's sign-off on Non-Disclosure Agreements (NDAs). The report includes a one High and three Medium observations. \n \n MANAGEMENT RESPONSE \n \nManagement has agreed to all observations raised in this report and actions plans to remediate risks have been developed with agreed target dates.",
+    "observationSummary": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius",
+        "imageName": "investControls2",
+        "observations": [
+            {
+                "id": 1,
+                "observationName": "Lack of Proper Documentation and Approvals of International Investment",
+                "observationRating": "High",
+                "observationSummary": "Inconsistent documentation in the assessments and conclusions of certain international investments was identified by the IA team. Specifically, proper documentation during the Initial Due Diligence stage was lacking in some investments, and required approvals from the Department Head were not obtained before proceeding to full due diligence.",
+                "observationOwner": "Ahmed Alghamdi, Head of Investments Division",
+                "observationTargetDate": "15 May 2023",
+                "observationDetail": "During the audit of the International Investment Department, it was observed that assessments and conclusions of certain international investments were not consistently documented. Specifically, at sourcing and screening stage, 1 out of 4 investment, where investment opportunities was evaluated without sufficiently documenting the analysis and related conclusions. \n\n Additionally, for 2 out of 4 assessed investment opportunities, it was observed that the required approvals from the International Investments Department Head (DH) were not obtained on initial due diligence memos before proceeding to the next stage for full due diligence.\n\n The initial part of the investment process encompasses two key stages: 1) Sourcing and Screening, where the investment team identifies opportunities and prepares the preliminary research and analysis memo, and 2) Initial Due Diligence, where they perform an in-depth research on opportunities that pass the first stage. In accordance with the international investments procedure document, the head of the International Investments department must review and approve the memo at each stage. These stages, combined with the required approvals, are crucial for evaluating potential investments and form as key steps prior to the Full Due Diligence stage.",
+                "observationImpact": "- Lack of proper documentation practices can hinder the ability to assess and make informed investment decisions, leading to missed opportunities and financial losses.\n \n - Failure to formally document required approvals from proper authority, could lead to significant impact on investment decision-making and performance.",
+                "observationMaps": "The International Investment Department will implement a process flow system in which proper system controls will be configured to ensure full compliance with the requirements stipulated in the International Investments Procedure document; including obtaining International Investments department’s head approval on memos related to the Investment Sourcing and Screening as well as Initial Due Diligence stages.\n International Investment Department, 15 May 2023"
+            },
+            {
+                "id": 2,
+                "observationName": "Security Classification for Transmitting Investment Information via Emails",
+                "observationRating": "Medium",
+                "observationSummary": "Email communication of investment related information with internal stakeholders were not adequately classified in accordance with the Green Horse Information Security Policy.",
+                "observationOwner": "Ahmed Alghamdi, Head of Investments Division",
+                "observationTargetDate": "15 Jan 2023",
+                "observationDetail": "While evaluating a new investment opportunity, the Investment team obtains information from multiple sources, including direct access to the investee’s data rooms. Therefore, investment teams engage the Legal Department to assist with the initiation and execution of the NDA, to ensure legal protection terms are established before confidential information is shared between the International Investments team and the other external parties.\n During our audit, Legal Department’s reviews and confirmation on investment NDAs projects were not provided within the International investment procedure specified timeframes. The procedure required Legal to review and approve; within four days of the NDA request. The exception was noted for 3 out 4 opportunities that were reviewed by the internal audit team.",
+                "observationImpact": "In a highly competitive deal-making environment, delays in executing NDAs, may result in losing an attractive investment opportunity, which may adversely impact the International Investment departments financial and performance targets.",
+                "observationMaps": "Legal will engage and work with International Investment to identify and address the root causes leading to delays and will also reassess the practicality of the timeline defined in the procedures and propose changes if needed. \n International investment Department, 15 May 2023"
+            },
+            {
+                "id": 3,
+                "observationName": "Investment Non-disclosure Agreement (NDA)",
+                "observationRating": "Medium",
+                "observationSummary": "Legal Department's reviews and confirmations on investment NDAs were not provided within the specified timeframes in the International investment procedure, with exceptions noted in several opportunities reviewed by the internal audit team.",
+                "observationOwner": "Ahmed Alghamdi, Head of Investments Division",
+                "observationTargetDate": "15 May 2023",
+                "observationDetail": "The International Investment team’s email communications are not always classified in line with Green Horse Information Security Policy (ISP). 3 out of 4 emails reviewed by the internal audit team were classified as ‘Internal Non-Sensitive’ where they should have been ‘Internal Sensitive’. International investment communication emails typically contain confidential information related to specific investment opportunities. Applying appropriate sensitivity-level classification and controls ensures the proper management and security of such information.",
+                "observationImpact": "Misclassification of communication emails containing sensitive investment-related information could compromise the confidentiality and security of investment information leading to potential financial and legal risks.",
+                "observationMaps": "International Investment will validate that all team members within the International investments department have completed the Information Security awareness training and will also reach out to Information Security for additional guidance on email/information classification. \n International investment Department, 15 Jan 2023"
+            },
+            {
+                "id": 4,
+                "observationName": "Completeness and Security of Investment Tracking Database",
+                "observationRating": "Medium",
+                "observationSummary": "The Investment Tracking Database does not require the logging of certain key information related to the tracked investments. Furthermore, a lack of consistency in logging all investment information required in the database was identified. \n Additionally, the database may not have sufficient security measures in place to prevent unauthorized access or amendments.",
+                "observationOwner": "Ahmed Alghamdi, Head of Investments Division",
+                "observationTargetDate": "15 May 2023",
+                "observationDetail": "The International Investment team maintains an Investment Tracking Database using Microsoft Excel, which is updated and presented to the International Investments department head on need basis and utilized for various reporting. The current design of the database does not require the logging of key information related to the tracked investments. This includes details such as the investment team responsible for the opportunity, the name of the team leader, and the targeted deal completion date.\n Furthermore, The internal audit team identified a lack of consistency in logging all investment information required in the database, including key investment inf ormation (details on the specific investment information is in the table below). Additionally, it has been observed that the database may not have sufficient security measures in place to prevent unauthorized access or amendments.",
+                "observationImpact": "Inaccurate representations of the actual investment opportunity/pipeline, which may limit the International Investment team’s ability to plan and utilize their resources efficiently and it could affect related management reporting and decision making. Moreover, inadequate security measures for Investment Tracking database could lead to errors or unauthorized changes, compromising investment reporting accuracy and leading to sub-optimal decision-making.",
+                "observationMaps": "The International Investment team will update the database to include the key fields highlighted in the audit observation. Further, the department will implementing a review process to ensure that all required investment information is consistently entered into the database. This may involve periodic checks by a designated individual or team, as well as training and reinforcement of data entry requirements for relevant staff.\n \n Further, the international investment team will strengthens the database security measures to prevent unauthorized access or amendments. This will include implementing access controls or password protection and conducting periodic security checks.\n International investment Department, 15 Jan 2023"
+            }
+        ]
+    },
+    {
+        "name": "Payments System Application Review",
+        "rating": "Some Improvement Required",
+        "date": "21 February 2023",
+        "code": "(IAD2023/FEB/4)",
+        "id": 1002,
+        "highRating": 0,
+        "mediumRating": 2,
+        "lowRating": 1,
+        "pdfUrl": "https://www.oracle.com/webfolder/assets/ebook/complete-guide-to-modern-erp/pdf/modern-erp.pdf",
+        "pdfName": "payments",
+        "execSummary": "BACKGROUND \n\n The audit of the organization's Payments System was conducted to assess the effectiveness and efficiency of the system's controls and processes. The Payments System plays a critical role in facilitating financial transactions, managing payment information, and ensuring the accuracy and integrity of payment processes.\n\n The purpose of this audit was to provide management with an independent assessment of the Payments System's controls, highlighting areas of strength and areas that require improvement. The findings and recommendations outlined in this report aim to assist management in strengthening the system's controls, enhancing security measures, and improving overall operational efficiency and effectiveness. \n\n SCOPE AND APPROACH \n\n The scope of this audit will include the examination of the application controls within the Payments System of ZTOWN. It will encompass the entire payment processing lifecycle, starting from the initiation of transactions through to their final authorization and recording. \n\n To achieve the audit objectives, the following approach was adopted:\n\n 1. Gain an understanding of the Payments System's architecture, configuration, and relevant policies and procedures. \n 2. Evaluate the design of the application controls, including access controls, authentication mechanisms, transaction processing rules, and segregation of duties.\n 3. Perform walkthroughs and testing of key controls to assess their operational effectiveness and adherence to established procedures.\n 4. Identify any control weaknesses or deviations and assess their impact on the reliability and security of the Payments System. \n\n CONCLUSION \n\n The audit of the organization's Payments System identified several key observations that require management's attention and action. These observations highlight weaknesses in input field validation, data backup practices, and access management controls, which, if left unaddressed, could expose the organization to various risks and vulnerabilities.\n Further details regarding the audit findings and their management action plans will be presented in the subsequent sections of this report. \n\n MANAGEMENT RESPONSE \n\n Management has agreed to all observations raised in this report and actions plans to remediate risks have been developed with agreed target dates.",
+    "observationSummary": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    
+    "imageName": "cpd",
+    "observations": [
+        {
+            "id": 1,
+            "observationName": "Input Validation Checks",
+            "observationRating": "Medium",
+            "observationSummary": "The system lacks adequate validation and verification mechanisms for input fields, which increases the risk of inaccurate or fraudulent payment data being processed.",
+            "observationOwner": "Sara Alruwaili, Head of Information Technology",
+            "observationTargetDate": "15 May 2023",
+            "observationDetail": "During the audit of the organization's Payments System, a weakness was identified in the input field checks control. The system lacks adequate validation and verification mechanisms for input fields, which increases the risk of inaccurate or fraudulent payment data being processed. \n\nDuring sample testing of payment data entry, it was observed that the system does not enforce mandatory fields or perform comprehensive data validations, allowing incomplete or invalid data to be accepted without appropriate error handling.",
+            "observationImpact": "The absence of robust input field checks poses significant risks to the integrity and accuracy of payment data within the Payments System. Without proper validation and verification controls, erroneous or unauthorized information may be entered, leading to processing errors, payment discrepancies, and potential financial losses. Moreover, the lack of input field checks increases the organization's vulnerability to fraudulent activities, such as data manipulation or injection attacks.",
+            "observationMaps": "IT will:\n 1. Implement comprehensive data validation and verification mechanisms for all input fields within the Payments System, including mandatory field enforcement, format checks, length restrictions, and input range validation."
+        },
+        {
+            "id": 2,
+            "observationName": "Payments System Backups",
+            "observationRating": "Medium",
+            "observationSummary": "The organization only performs data backups once a year, which poses a significant risk to the availability, integrity, and recoverability of critical data.",
+            "observationOwner": "Sara Alruwaili, Head of Information Technology",
+            "observationTargetDate": "15 May 2023",
+            "observationDetail": "During the audit of the organization's data management practices, a weakness was identified in the data backup procedures. It was observed that the organization only performs data backups once a year, which poses a significant risk to the availability, integrity, and recoverability of critical data.\nExamination of backup logs and documentation revealed that data backups are performed only once a year, contrary to industry best practices and data protection standards. The extended time intervals between backups leave the organization vulnerable to data loss and limit the ability to recover systems and data in a timely manner.",
+            "observationImpact": "The organization's reliance on an annual data backup practice significantly compromises data availability and recovery capabilities. Insufficient backup frequency exposes the organization to substantial risks, including prolonged system downtime, permanent data loss, business disruption, and compromised continuity. In the absence of regular and frequent backups, the organization faces an elevated threat of unrecoverable data, financial losses, regulatory non-compliance, and reputational damage.",
+            "observationMaps": "IT will: \n1. Review and update the data backup policy to establish a more frequent and robust backup schedule.\n2. Implement automated backup solutions that ensure regular and reliable backups of critical data, systems, and configurations."
+        },
+        {
+            "id": 3,
+            "observationName": "Access Management",
+            "observationRating": "Low",
+            "observationSummary": "Review of user access records and permissions revealed a few instances where inactive or terminated employees still had active user accounts in the Payments System.",
+            "observationOwner": "Sara Alruwaili, Head of Information Technology",
+            "observationTargetDate": "15 May 2023",
+            "observationDetail": "During the audit of the organization's Payments System, some minor weaknesses were identified in the access management practices. While the access controls generally align with industry standards, there are a few areas where improvements can be made to enhance the overall security posture.Review of user access records and permissions revealed a few instances where inactive or terminated employees still had active user accounts in the Payments System. Although the number of such accounts is limited, implementing a more efficient deprovisioning process will minimize the risk of unauthorized access.",
+            "observationImpact": "Insufficient access controls increase the risk of unauthorized individuals gaining access to sensitive systems, applications, or data. This can result in data breaches, unauthorized modifications, or misuse of information, leading to potential financial losses, reputational damage, and regulatory non-compliance.",
+            "observationMaps": "IT will: \n1. Establish a streamlined deprovisioning process to promptly remove access rights for inactive or terminated employees, reducing the risk of unauthorized access."
+        }
+    ]
+    },
+    {
+        "name": "Vendor Invoice Payments",
+        "rating": "Unsatisfactory",
+        "date": "21 March 2023",
+        "code": "(IAD2023/MAR/6)",
+        "id": 1003,
+        "highRating": 5,
+        "mediumRating": 1,
+        "lowRating": 0,
+        "pdfUrl": "https://www.tutorialspoint.com/sharepoint/sharepoint_tutorial.pdf",
+        "pdfName": "vendor",
+        "execSummary": "BACKGROUND\n\nThe Finance Departments’ Accounts Payable Unit manages vendor payments at GG. The aim of the vendor payment process is to distribute funds to suppliers for the goods and services which they have supplied. Payments are processed using a real-time electronic fund transfer system through the bank's Business-to-Business (B2B) payment application. The B2B payment application is integrated with GG's procure to pay (P2P) system called \"Fusion Business Solution.\" This process is fully digitized, eliminating the need for physical documentation and approvals.\n\nSCOPE AND APPROACH \n\nThis audit assessed the design and operating effectiveness of the vendor payment execution controls, including:\n– Receipt and Verification of invoices;\n– Creation of payment request forms;\n– Approval and Authorization of payment requests; and\n– Management reporting.\n\nPayments related to investment i.e. money market transactions, acquisitions (private equity and listed stocks), internal funds transferred follow a different process and hence excluded from the scope of this audit.\n\nCONCLUSION\n\nOverall, the Internal Audit report rates controls around vendor payment processes as “Unsatisfactory”. The internal audit rating is primarily driven from inappropriate design of key internal controls within Fusion business solution, weakness around review and approval of payment request forms, significant reliance of individuals and lack of appropriate monitoring of invoices.\n\nThis audit Identified five High and one Medium rated observations, which are summarized below:\n\nI. Inappropriate Preventive Controls on Invoice Generation:\n\nThe preventive controls for invoice accuracy in Fusion Business solution are inadequate and causing errors in vendor payments. Such as:\n– The vendor bank information is editable and not tied to registration data,leadingto payments to unregistered accounts.\n– The invoice amount field is unrestricted, allowing invoices to be raised higher than the PO amount and increasing manual verification.\n– The GSRN is not set as a requirement for invoice generation, creating inefficiencies and dependence on AP employees for verification.\n\nII. Exchange rate conversion:\n\nThe integration of Fusion Business Solution with the central bank's exchange rate portal (for capturing exchange rates accurately when converting invoice amounts into Saudi Riyal) is not properly configured. Consequently, this leads to significant errors in the Vendors' payments.\n\nIII. Excessive user access and Breach in Delegation of Authorities:\n\n– The review controls within the Fusion Business Solution are not configured appropriately, permitting individuals in the AP team to circumvent segregation of duties controls set up in the Vendor payment policy and procedure. This potentially exposes GG to the risk of errors in invoice verification without detection. This control weakness stems in from the lack of defined policy and procedures for Fusion business solution user access management.\n– Although the payment approval delegation of authority is correctly set up in Fusion business solution, some breaches were observed. Invoices were divided into multiple payment request forms to evade the need for a higher delegation to be authorized.\n\nWeak monitoring of invoice aging:\n\nThe invoice aging analysis prepared by AP and submitted to the CFO is lacking the details of individual invoices. In addition, the invoice aging calculation uses the date of creation on the payment request form, rather than the payment terms on the PO, which require payment to be made within 21 days from the date of the invoice. This misalignment between PO payment terms and Vendor payment Policy creates a gap in the process exposing GG to the risk of additional interest charges.\n\nThe absence of adequate reviews by senior management personnel increases the risks associated with the audit observations mentioned earlier. This is due to the high level of trust placed in subordinates, which undermines oversight controls and weakens the control environment around the vendor payment process.\n\nMANAGEMENT RESPONSE\n\nManagement has agreed to all observations raised in this report and actions plans to remediate risks have been developed with agreed target dates.",
+    "observationSummary": "test",
+    "imageName": "Kafd-PIF",
+    "observations": [
+        {
+            "id": 1,
+            "observationName": "Preventive Controls on Invoice Generation",
+            "observationRating": "High",
+            "observationSummary": "The preventive control on invoice generation is not appropriately designed to reduce the risk of errors.",
+            "observationOwner": "Abdulaziz Altuwaijri, Head of Accounts Payables Department",
+            "observationTargetDate": "30 Jun 2023",
+            "observationDetail": "The Preventive system controls to ensure accuracy of the invoices are not comprehensively designed and lack the following:\n– The Vendor Bank name and IBAN is editable and not linked to vendor registration data. While vendor login controls are correctly set up to minimize fraudulent invoice generation, errors in vendor bank data can occur.\n– The invoice amount field is unrestricted, even though a vendor can select the PO number from a dropdown list registered under their name. As a result, invoices can be raised for an amount higher than the PO, leading to unnecessary, manual invoice verification work.\n– The GSRN is not configured as a requirement for invoice generation and creates inefficiencies and dependence on AP employees for verification.\nInternal audit testing of a randomly selected sample of 25 invoices identified significant operating effectiveness issues (Errors) in invoice accuracy/verification. ",
+            "observationImpact": "Errors in invoices requires extra manual verification and leads to a decline in operational efficiencies, it can further result in the loss of profitability and financial resources in the form of penalties and interest charges. Moreover, it may damage the vendor relationships and harm the reputation of the company.",
+            "observationMaps": "1. Configure fusion business solution to link vendor registration records with the payment bank account details and prohibit editable vendor payment information such as bank account numbers to maintain data accuracy.\n2. Set up a restriction in the invoice amount field by correlating it with the PO amount to avoid invoicing for more than the PO amount. Implement automatic notification protocols that alert vendors and internal teams when discrepancies occur.\n3. Develop a policy that makes GSRN a mandatory requirement for invoice generation and automate GSRN retrieval instead of relying solely on AP employees.\n\nOwner: Mohammad Aza, Chief Financial Officer \nCompletion Date: 30 June 2023."
+        },
+        {
+            "id": 2,
+            "observationName": "Exchange rate conversion of Invoices",
+            "observationRating": "High",
+            "observationSummary": "Fusion business solution is not accurately capturing the currency exchange rates for conversion of invoice amounts to Saudi Riyals from central bank portal.",
+            "observationOwner": "Jane Doe",
+            "observationTargetDate": "31 Mar 2023",
+            "observationDetail": "Fusion Business Solution is not suitably configured with the central bank exchange rate portal, causing it to pick up incorrect exchange rates for converting invoice amount to Saudi riyals.\nInternal audit testing of a randomly selected sample of 25 invoices",
+            "observationImpact": "Picking up incorrect exchange rates for converting invoice amounts to Saudi Riyals results in over or underpayment of vendors, and potentially leading to financial loss",
+            "observationMaps": "1. Evaluate and update the integration between Fusion Business Solution and the central bank's exchange rate portal to ensure its accuracy.\n2. Periodically review the integration between Fusion Business Solution and the central bank's exchange rate portal to ensure it is being appropriately configured.\n\nOwner: Mohammad Aza , Chief Financial Officer\nCompletion Date: 31 March 2023."
+        },
+        {
+            "id": 3,
+            "observationName": "Delegation of Authorities breaches",
+            "observationRating": "High",
+            "observationSummary": "Invoices were divided into multiple payment request forms to evade the need for a higher delegation to be authorized.",
+            "observationOwner": "Abdulaziz Altuwaijri, Head of Accounts Payables Department",
+            "observationTargetDate": "30 Jun 2023",
+            "observationDetail": "Despite the correct setup of payment approval delegation of authority in Fusion business solution, some invoices were split into several payment request forms in order to circumvent the requirement for authorization from a higher delegation.\nInternal audit identified the following:\nPayments for two invoices (numbers 31405676 and 94933255) amounting to SAR 25m and SAR 9.9m were split into three and two installments, see pdf report for details:",
+            "observationImpact": "nauthorized individuals approving payments could result in financial loss or fraudulent activity. It can also undermine the internal control and compliance system of the organization, and potentially damage its reputation.",
+            "observationMaps": "1. Conduct a comprehensive audit to identify any fraudulent activities and determine their extent.\n2. Launch measures such as verifying the authority of individuals, especially for larger payments, and creating a rigorous authorization process to safeguard against the potential for unauthorized approval.\n3. Reinforce policies promoting transparency, accountability, and compliance among the staff and engage them in training sessions to prevent activities that could undermine the financial stability and reputation of the organization.\n\nOwner: Mohammad Aza, Chief Financial Officer \nCompletion Date: 30 June 2023."
+        },
+        {
+            "id": 4,
+            "observationName": "Excessive User Privileges",
+            "observationRating": "High",
+            "observationSummary": "“Maker/checker” controls are not appropriately configured in Fusion Business Solution as such; individuals within AP team can bypass segregation of duties controls as established in the Vendor payment policy and procedures.",
+            
+            "observationOwner": "Abdulaziz Altuwaijri, Head of Accounts Payables Department",
+            "observationTargetDate": "31 Mar 2023",
+            "observationDetail": "Despite the specific roles and responsibilities outlined in the Vendor policy and procedure document to ensure proper segregation of duties and review processes, they have not been configured in the Fusion Business solution.\n Internal Audit Identified below conflicting roles within Fusion Business Solution: see pdf report for more details.\n\nAdditionally, there are no guidelines for user access management in the vendor payment policy and procedures document.",
+            "observationImpact": "Inappropriate segregation of duties and insufficient oversight enhance the likelihood of fraudulent activities and errors remaining undetected damaging organization's public image, result in financial loss, and legal penalties. Furthermore, non-compliance with policy guidelines can create an environment where fraudulent activity can occur without any hindrance.",
+            "observationMaps": "1. Re-Configure the roles and responsibilities in the Fusion Business solution to align with the Vendor policy and procedure and immediately revoke excessive user privileges.\n2. Develop and implement a policy for user access management for Fusion business solution.\n\nOwner: Mohammad Aza , Chief Financial Officer \nCompletion Date: 31 March 2023."
+        },
+        {
+            "id": 5,
+            "observationName": "Inappropriate Review of Payment Request Forms",
+            "observationRating": "High",
+            "observationSummary": "Due to the high level of trust that senior management has in their subordinates, the payment request form does not undergo appropriate reviews.",
+            
+            "observationOwner": "Abdulaziz Altuwaijri, Head of Accounts Payables Department",
+            "observationTargetDate": "31 Mar 2023",
+            "observationDetail": "The reliance and trust of senior management personnel in their subordinates have led to an inadequate review and approval process of payment request forms, resulting in the internal audit detecting various erroneous invoice payments made without detection.\nMultiple errors in the sample of 25 invoice payments were identified, highlighting the lack of an appropriate review and approval process. These errors can be categorized into the following themes:\n\nI. Inaccurate invoice amounts\nII. Misalignment with Purchase Orders (POs)\nIII. Errors in vendor bank account details IV. Absence of proper segregation of duties.\nV. Breach of delegation of authorities",
+            "observationImpact": "The absence of proper segregation of duties and reviews can create an environment where fraudulent activities can thrive. Lack of proper review and controls can ultimately lead to internal control weaknesses and non-compliance with regulatory and statutory guidelines.",
+            "observationMaps": "Regularly monitor and report the review and approval process of payment request forms, including any detected irregularities, discrepancies, and areas of improvement to the Board members.\n\nOwner: Mohammad Aza , Chief Financial Officer \nCompletion Date: 31 March 2023."
+        },
+        {
+            "id": 6,
+            "observationName": "Monitoring of Invoices",
+            "observationRating": "Medium",
+            "observationSummary": "The invoice aging analysis submitted to the CFO by AP lacks individual invoice details. Moreover, the invoice aging calculation relies on the date of creation mentioned on the payment request form instead of payment terms in the PO",
+            "observationOwner": "Abdulaziz Altuwaijri, Head of Accounts Payables Department",
+            "observationTargetDate": "31 Mar 2023",
+            "observationDetail": "The current invoice aging report does not provide CFO with specific information regarding delayed invoices. Additionally, there is a misalignment between the payment terms on the purchase order and the vendor payment policy that results in aging being calculated from the payment request form's creation date, rather than the invoice date set forth in the PO payment terms.\nInternal audit performed a data analysis on invoices received in 2022 and identified that out of total 278 invoices, 137 (49%) invoices were paid after 21 day from invoice creation. See aging analysis in pdf report",
+            "observationImpact": "Missed payment deadlines, late fees, and even damage to the organization's creditworthiness and reputation.",
+            "observationMaps": "Revise the design of the report to bring specific invoice related details and revise the payment policy for its alignment with the PO payment terms. \n\nOwner: Mohammad Aza , Chief Financial Officer\nCompletion Date: 31 March 2023."
+        }
+    ]
+    }
+]
